@@ -475,11 +475,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Aniruddh Atrey** | **Madhav Singh Rawat**
+### **[Aniruddh Atrey](https://www.aniruddhatrey.com)** | **Madhav Singh Rawat**
 
-*Cybersecurity Researchers & Developers*
+**AI Engineer | Cybersecurity Expert | SaaS Entrepreneur**
 
-[GitHub](https://github.com/AndrousStark) • [Report Issues](https://github.com/AndrousStark/StealthWeb-Enumerator/issues)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aniruddhatrey.com-00d4ff?style=for-the-badge&logo=vercel&logoColor=white)](https://www.aniruddhatrey.com)
+[![Hire Me](https://img.shields.io/badge/Hire_Me-Services-9933ff?style=for-the-badge&logo=rocket&logoColor=white)](https://www.aniruddhatrey.com/services)
+[![MetaMinds](https://img.shields.io/badge/MetaMinds-AI_Agency-00ff88?style=for-the-badge&logo=brain&logoColor=white)](https://metaminds.firm.in)
+
+---
+
+**Need a cybersecurity tool or AI-powered solution built?**
+[**aniruddhatrey.com**](https://www.aniruddhatrey.com) | [**metaminds.firm.in**](https://metaminds.firm.in)
+
+*Co-Founder & COO @ [F1Jobs.io](https://f1jobs.io) | Founder & CTO @ [MetaMinds](https://metaminds.firm.in)*
 
 </div>
 
